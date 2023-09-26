@@ -7,12 +7,15 @@ trap 'printf "\n";stop' 2
 
     banner(){
     clear
-    printf '\n    @@@@@@@ @@@@@@@@  @@@@@@@ @@@  @@@ @@@@@@@ @@@@@@@@  @@@@@@  @@@@@@@@@@   @@@@@@  \n'
-    printf '        @!!   @@!      !@@      @@!  @@@   @!!   @@!      @@!  @@@ @@! @@! @@! !@@      \n'
-    printf '        @!!   @!!!:!   !@!      @!@!@!@!   @!!   @!!!:!   @!@!@!@! @!! !!@ @!@  !@@!!   \n'
-    printf '        !!:   !!:      :!!      !!:  !!!   !!:   !!:      !!:  !!! !!:     !!:     !:!  \n'
-    printf '         :    : :: ::   :: :: :  :   : :    :    : :: ::   :   : :  :      :   ::.: :   \n\n'
-    printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
+    printf '\n    88888888888                888    88888888888                                       \n'                                      
+    printf '          888                    888        888                                           \n'                                      
+    printf '          888                    888        888                                           \n'                                      
+    printf '          888   .d88b.   .d8888b 88888b.    888   .d88b.   8888b.  88888b.d88b.  .d8888b  \n'
+    printf '          888  d8P  Y8b d88P"    888 "88b   888  d8P  Y8b     "88b 888 "888 "88b 88K      \n'
+    printf '          888  88888888 888      888  888   888  88888888 .d888888 888  888  888 "Y8888b. \n'
+    printf '          888  Y8b.     Y88b.    888  888   888  Y8b.     888  888 888  888  888      X88 \n'
+    printf '          888   "Y8888   "Y8888P 888  888   888   "Y8888  "Y888888 888  888  888  88888P  \n\n'                                                                                                                                                                                                                         
+    printf '\e[1;31m  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
     printf " \e[1;93m      Live_teams 0.1 - by Deepak Kumar [Techteams]\e[0m \n"
     printf " \e[1;92m      www.techteams.online | youtube.com/techteams \e[0m \n"
     printf "\e[1;90m Techteams is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
